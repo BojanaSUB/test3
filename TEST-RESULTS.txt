@@ -1,0 +1,3 @@
+Aplikacija Calculator manuelno testirana 
+Testirane su sve operacije pojedinacno i kombinovano, nisu primeceni nikakvi nedostaci. 
+Napisan je Unit test koji potvrdjuje ispravan rad aplikacije pri kombinovanim matematickim operacijama. 
